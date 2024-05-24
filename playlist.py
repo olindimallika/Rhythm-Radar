@@ -1,5 +1,5 @@
 """
-CSC111 Winter 2023 Final Project
+CSC111 Winter Final Project
 RhythmnRadar: Underground Song Recommendation System
 This module contains a collection of Python classes and functions for our song recommendation system.
 
