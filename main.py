@@ -1,5 +1,5 @@
 """
-CSC111 Winter 2023 Final Project
+CSC111 Winter Final Project
 RhythmnRadar: Underground Song Recommendation System
 [Insert Module Description]
 
